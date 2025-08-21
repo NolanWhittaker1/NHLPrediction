@@ -3,6 +3,7 @@
 This repository contains data science scripts developed for CMPT 353.  
 The project involves cleaning, processing, and analyzing NHL statistics.  
 To reproduce the workflow, run the provided Python scripts (`00` through `05`) **in order**.
+To see my results please feel free to read NhlGamePredictor.pdf!
 
 ## Requirements
 
